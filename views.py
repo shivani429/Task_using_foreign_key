@@ -4,9 +4,7 @@ from django.http import HttpResponseRedirect
 from .models import *
 from demoapp.forms import *
 from django.contrib.auth.forms import UserCreationForm
-from django.contrib.auth import authenticate,login,logout
-from django.contrib.auth.decorators import login_required
-f
+
 
 
 
